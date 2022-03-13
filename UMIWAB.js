@@ -1,5 +1,5 @@
 {
-	"version": "15.0",
+	"version": "13.0",
 	"download": "https://difarosyidin.com/2022/03/umi-wabusiness-v120.html",
 	"update": [
 		{
