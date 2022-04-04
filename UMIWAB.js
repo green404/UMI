@@ -6,9 +6,6 @@
 			"languaje": "en",
 			"changelog": "https://raw.githubusercontent.com/green404/UMI/main/changelog-B-en.html"
 		},
-		{
-			"languaje": "in",
-			"changelog": "https://raw.githubusercontent.com/green404/UMI/main/changelog-B-in.html"
-		}
+	
 	]
 }
