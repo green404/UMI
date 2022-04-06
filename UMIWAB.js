@@ -1,6 +1,6 @@
 {
 	"version": "14.0",
-	"Hubungi Admin": "https://wa.me/6281380013449",
+	"download": "https://wa.me/6281380013449",
 	"update": [
 		{
 			"languaje": "en",
