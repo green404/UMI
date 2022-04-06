@@ -1,6 +1,6 @@
 {
 	"version": "14.0",
-	"Hubungi Admin": "https://wa.me/6281380013449",
+	"download": "https://www.difarosyidin.com/2022/03/umi-wabusiness-v120.html",
 	"update": [
 		{
 			"languaje": "en",
