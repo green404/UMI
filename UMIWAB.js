@@ -1,5 +1,5 @@
 {
-	"version": "14.0",
+	"version": "13.0",
 	"download": "https://wa.me/6281380013449",
 	"update": [
 		{
