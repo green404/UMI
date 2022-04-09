@@ -1,6 +1,6 @@
 {
-	"version": "13.0",
-	"download": "https://wa.me/6281380013449",
+	"version": "14.0",
+	"download": "https://wa.me/+6281380013449?text=Tolong%20konfirmasi%20email%20saya%20untuk%20mendownload%0AEmail%3A%20.....(email%20anda)",
 	"update": [
 		{
 			"languaje": "en",
