@@ -1,5 +1,5 @@
 {
-	"version": "25",
+	"version": "10.0",
 	"download": "https://wa.link/9m5mww",
 	"update": [
 		{
